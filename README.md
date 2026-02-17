@@ -1,16 +1,58 @@
-## Hi there 👋
+Hi 👋, I'm Immanial Raju
+MSc Data Science Graduate | Data Analyst | Python | SQL | Power BI
 
-<!--
-**Immanial27/Immanial27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+🎓 MSc Data Science graduate from Coventry University  
+📍 Based in Coventry, UK  
+📊 Passionate about data analysis, visualization, and business intelligence  
+⚙ 7+ years of experience in operations & engineering leadership  
+📈 Strong background in KPI monitoring, performance reporting, and data-driven decisions  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I specialize in transforming raw datasets into meaningful business insights.
+
+---
+
+## 🛠 Technical Skills
+
+**Languages & Tools:**
+- Python (Pandas, NumPy, Matplotlib, Seaborn)
+- SQL
+- Power BI
+- Tableau
+- Excel (Advanced)
+
+**Core Competencies:**
+- Data Cleaning & Wrangling
+- Exploratory Data Analysis (EDA)
+- Dashboard Development
+- Statistical Analysis
+- Performance Analytics
+- Business Intelligence
+
+## 📂 Featured Projects
+
+### 📊 Unemployment Data Analysis
+- Applied machine learning models to analyze unemployment trends
+- Built interactive dashboards using Tableau
+- Delivered data-driven insights on regional employment patterns
+
+### ⚙ Operations & Performance Analytics
+- Designed KPI tracking systems
+- Developed performance dashboards
+- Conducted root cause analysis using operational datasets
+
+---
+
+## 📈 Current Focus
+
+- Building real-world Data Analytics projects
+- Strengthening SQL & Python portfolio
+- Applying analytics to business operations
+
+---
+
+## 📫 Connect With Me
+
+LinkedIn: https://www.linkedin.com/in/immanial-raju  
+Email: pimmanialraju@gmail.com
